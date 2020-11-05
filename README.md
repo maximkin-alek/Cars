@@ -9,3 +9,6 @@
 
 ## Стэк технологий:
 HTML, CSS.
+
+## Ссылка на github pages:
+https://maximkin-alek.github.io/Feinman/
